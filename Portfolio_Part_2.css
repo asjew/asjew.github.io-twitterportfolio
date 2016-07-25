@@ -1,0 +1,29 @@
+body {
+	color: #000000;
+	background-color:#b3b3ff;
+}
+
+#header {
+	background-color:white;
+	color:#99e6ff;
+	text-align:center;
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	font-size: 20px;
+}
+
+#week {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+	font-size: 18px;
+	color:white;
+	text-align:center;
+}
+
+#aboutgwc {
+	color:#e600e6;
+	text-align:center;
+	background-color:#e6ffff;
+}
+
+a {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
